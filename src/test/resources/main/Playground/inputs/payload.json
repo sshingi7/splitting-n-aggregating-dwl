@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "transaction": "credit",
+        "amount": 100
+    },
+    {
+        "id": 2,
+        "transaction": "debit",
+        "amount": 50
+    },
+    {
+        "id": 3,
+        "transaction": "credit",
+        "amount": 200
+    },
+    {
+        "id": 4,
+        "transaction": "debit",
+        "amount": 30
+    }
+]
